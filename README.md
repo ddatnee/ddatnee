@@ -2,8 +2,8 @@
 
 ## 👨‍💻 About Me 
 - 🏫 I'm a `student` at [Bai Chay High School](https://thptbaichay.edu.vn/).
-- 💻 I'm learning to be a backend developer in different programming languages, working towards contributing to projects.
 - 🎉 I like coding and playing games.
+- 💻 I'm learning to be a backend developer in different programming languages, working towards contributing to projects.
 - 🌱 I’m currently learning [Laravel](https://laravel.com).
 
 ## 🌐 My Profiles
