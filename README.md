@@ -68,7 +68,7 @@
 
 ## 🤝🏻 Connect with me
 <p align="center">
-<a href="mailto:ddatne.test@gmail.com"><img src="https://img.shields.io/badge/-ddatne.test@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ddat.dev@gmail.com"><img src="https://img.shields.io/badge/-ddat.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/onlyddat"><img src="https://img.shields.io/badge/-@onlyddat_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p><br>
 
